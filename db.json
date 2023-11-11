@@ -1,0 +1,39 @@
+{
+    "dicas": [
+      {
+        "id": 1,
+        "imagem": "https://kultivi.com/wp-content/uploads/2023/09/exemplo-de-mapa-mental-1024x576.png",
+        "descricao": "Crie mapas mentais."
+      },
+      {
+        "id": 2,
+        "imagem": "https://bibliomundi.com/blog/wp-content/uploads/150502-romeo-distracting-death-tease_hoc1ee.jpg",
+        "descricao": "Elimine distrações."
+      },
+      {
+        "id": 3,
+        "imagem": "https://horizontes.sbc.org.br/wp-content/uploads/2021/03/capa.jpg",
+        "descricao": "Faça revisões do que você ja escreveu."
+      },
+      {
+        "id": 4,
+        "imagem": "https://guiadoestudante.abril.com.br/wp-content/uploads/sites/4/2018/04/6-dicas-para-escrever-sua-redaccca7acc83o-mais-racc81pido.jpg?quality=100&strip=info",
+        "descricao": "Você absorve mais conhecimento escrevendo, ao invés de apenas ler."
+      },
+      {
+        "id": 5,
+        "imagem": "https://media.istockphoto.com/id/1097730450/pt/vetorial/poster-in-hand-business-concept-with-time-for-a-break.jpg?s=612x612&w=0&k=20&c=8F20-1tUwQxGrHaEFycXODq67RjpzUZaZGs9pvOti94=",
+        "descricao": "Descansar também é importante."
+      },
+      {
+        "id": 6,
+        "imagem": "https://fenixx.com.br/wp-content/uploads/Depositphotos_65022511_xl-2015_2021-06-18-scaled.jpg",
+        "descricao": "Mantenha seu local limpo e organizado"
+      },
+      {
+        "id": 7,
+        "imagem": "https://img.freepik.com/vetores-premium/esbocos-de-jovens-entusiastas-da-tecnologia_961038-45505.jpg",
+        "descricao": "Ensinar é a melhor maneira de aprender. Pratique com grupos de estudo."
+      }
+    ]
+  }
